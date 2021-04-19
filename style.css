@@ -1,0 +1,81 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box; 
+}
+h1 {
+	text-align: center;
+	width: 100%;
+}
+body {
+	height: 100%;
+}
+.header {
+	width: 100%;
+	font-size: 40px;
+	margin: 30px;
+	text-align: center;
+}
+.body {
+	width: 70%;
+	margin: auto;
+	padding: 50px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center; 
+	/*box-shadow: 0 0 10px 1px rgba(0,0,0,0.2);*/
+	-webkit-box-shadow: 46px 42px 12px 0px rgba(0, 139, 169, 0.22);
+-moz-box-shadow: 46px 42px 12px 0px rgba(0, 139, 169, 0.22);
+box-shadow: 46px 42px 12px 0px rgba(0, 139, 169, 0.22);
+}
+.photo {
+	width: calc(50% - 40px);
+	height: calc((35vw - 40px) / 16 * 9);
+	margin: 20px;
+	background-position: center;
+	background-size: cover;
+	background-color: blue;
+	-webkit-box-shadow: 46px 42px 12px 0px rgba(0, 139, 169, 0.22);
+-moz-box-shadow: 46px 42px 12px 0px rgba(0, 139, 169, 0.22);
+box-shadow: 46px 42px 12px 0px rgba(0, 139, 169, 0.22);
+transition: all 0.5s ease;
+}
+.photo:hover {
+	transform: rotate(10deg) scale(1.2);
+}
+.photo1 {
+	background-image: url(радуга/r.jpg)
+}
+.photo2 {
+	background-image: url(радуга/r2.jpg)
+}
+.photo3 {
+	background-image: url(радуга/r3.jpg)
+}
+.photo4 {
+	background-image: url(радуга/r4.jpg)
+}
+.photo5 {
+	background-image: url(радуга/r5.jpg)
+}
+.photo6 {
+	background-image: url(радуга/r6.jpg)
+}
+.photo7 {
+	background-image: url(радуга/r7.jpg)
+}
+.photo8 {
+	background-image: url(радуга/r8.jpg)
+}
+.photo9 {
+	background-image: url(радуга/r9.jpg)
+}
+.photo10 {
+	background-image: url(радуга/r10.jpg)
+}
+.photo11 {
+	background-image: url(радуга/r11.jpg)
+}
+.photo12 {
+	background-image: url(радуга/r12.jpg)
+}
