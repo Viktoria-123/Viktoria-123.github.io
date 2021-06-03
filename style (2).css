@@ -1,0 +1,41 @@
+html {
+	font-size: 30px;
+}
+body {
+	background-color: #dcdcdc;
+	width: 100%;
+}
+.header {
+	width: 70%;
+	margin: auto;
+	padding: 50px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center; 
+}
+img {
+	width: 1000px;
+	height: 650px;
+}
+.nav-link+.nav-link {
+	margin-left: 3%;
+}
+
+
+.nav-link {
+	text-decoration: none;
+	color: black;
+	display: inline-block;
+	padding: 10px 15px;
+	font-size: 1.5rem;
+	letter-spacing: 0.5px;
+}
+
+.nav-link:hover {
+	background-color: black;
+	color: white;
+}
+h1 {
+	font-size: 45px;
+	text-align: center;
+}
