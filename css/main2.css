@@ -129,14 +129,14 @@ h2{
 }
 
 p{
-	font-size: 80px;
+	font-size: 4rem;
 	margin-top: 0;
 	margin-bottom: 20px;
 
 }
 
 #first{
-	height: calc(100vh - 90px);
+	height: calc(120vh - 90px);
 	background: linear-gradient(#0007,#0006), url("../img/5.jpg");
 	background-size: cover;
 	color: #afdafc;
@@ -228,6 +228,6 @@ p{
 }
 
 .img{
-	width: 15rem;
-	height: 15rem;
+	width: 13rem;
+	height: 13rem;
 }
