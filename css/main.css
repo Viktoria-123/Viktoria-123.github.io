@@ -196,14 +196,14 @@ p{
 }
 
 .algoritm-title{
-	padding-top: 15px;
+	padding-top: 1rem;
 	background: white;
 	color: #330033;
 	font-weight: 700;
 	font-size: 4rem;
 	padding-bottom: 15px;
-	margin-left: 30rem;
-	margin-right: 30rem;
+	margin-left: 10rem;
+	margin-right: 10rem;
 	margin-bottom: 4rem;
 	text-align: center;
 	border-top-right-radius: 60px;
