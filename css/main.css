@@ -226,7 +226,7 @@ p{
 
 	margin-top: 15px;
 	font-weight: 400;
-	font-size: 1.4rem;
+	font-size: 1.2rem;
 }
 
 @keyframes kuku{
@@ -365,6 +365,6 @@ section a:hover{
  }
 
  .icon{
- 	width: 8rem;
- 	height: 8rem;
+ 	width: 7rem;
+ 	height: 7rem;
  }
